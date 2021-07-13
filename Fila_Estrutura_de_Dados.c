@@ -36,7 +36,7 @@ fila *criar_fila()
     return f;
 }
 
-/*-------------------- Funcao de impressco do menu --------------------*/
+/*-------------------- Funcao de impressao do menu --------------------*/
 void menu()
 {
     printf("\tBEM VINDO AO BANCO");
